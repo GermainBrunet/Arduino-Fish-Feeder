@@ -22,17 +22,17 @@ In the main menu, you will see the following options.  Using the "up" and "down"
 - Save Settings
 - Hi Mom!
 
-Run Feeder: This menu entry will run the feeding program.  The software will display a countdown timer and wait until the wait time defined in the Wait Time menu option.  When the time is elapsed, it will trigger the auger for the period indicated by the Feed Time.  Once the feeding is completed, the "Wait Time" is reset back to it's default value. Use the "left" button to exit this menu selection and return to the main menu.
+Run Feeder: This menu entry will run the feeding program.  The software will display a countdown timer and wait until the wait time defined in the Wait Time menu option.  When the time is elapsed, it will trigger the auger for the period indicated by the Feed Time.  Once the feeding is completed, the "Wait Time" is reset back to it's default value. 
 
-Wait Time: This menu entry allows you to setup the wait time.  Use the "right" buttons to change between controlling the Hour, Minute and Second.  Use the "up" and "down" button to increase or decrease the selected time interval.  Use the "left" button to exit this menu selection and return to the main menu.
+Wait Time: This menu entry allows you to setup the wait time.  Use the "right" buttons to change between controlling the Hour, Minute and Second.  Use the "up" and "down" button to increase or decrease the selected time interval.  
 
-Feed Time: This menu entry allows you to setup the feed time.  Use the "up" and "down" buttons to increase and decrease the time the auger will rotate during a feeding.  Use the "left" button to exit this menu selection and return to the main menu.
+Feed Time: This menu entry allows you to setup the feed time.  Use the "up" and "down" buttons to increase and decrease the time the auger will rotate during a feeding.  
 
-Feed Now: This menu entry allows you to manually trigger a feeding. Selecting this menu entry will automatically trigger the auger.  Clicking on the "right" button again will trigger the auger again. Use the "left" button to exit this menu selection and return to the main menu.
+Feed Now: This menu entry allows you to manually trigger a feeding. Selecting this menu entry will automatically trigger the auger.  Clicking on the "right" button again will trigger the auger again. 
 
 Save Settings:  This menu entry will store your Wait Time and Feed Time values to the Arduino EEPROM.  A restart of the Arduino will automatically load your values.  This is useful in case of a power outage. 
 
-Use the left button to exi
+Use the "left" button to exit this menu selection and return to the main menu.
 
 # Hardware
 - Arduino UNO
