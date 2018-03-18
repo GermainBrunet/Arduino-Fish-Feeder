@@ -43,4 +43,13 @@ Use the "left" button to exit this menu selection and return to the main menu.
 - Finding an easy arduino menu to extend.  Thank you Paul Siewert for your easy to configure menu.
 - Data pins between OSEPP LCD and Arduino DO NOT LINE UP!  (Read the manual)
 
+# Sources
+Why program when you can integrate!  This software uses:
+- Original Menu Code by Paul Siewert - LCD Button Shield Menu: http://ha2eqd.com/arduino/018_MENU_menu/MENU_LM75_AM2302__EEPROM_EQD.html
+- Thank you Active for proposing the OSEPP LCD KEYPAD SHIELD for use with the Arduino UNO: https://www.active123.com/
+- Thingiverse for the 3d printed feeder parts that leverages PVC parts: https://www.thingiverse.com/thing:2387904
+- EZRobot for the 360 Servo: https://www.ez-robot.com/Shop/AccessoriesDetails.aspx?prevCat=9&productNumber=5
+- OSEPP LCD Keypad Shield Reference: https://www.dfrobot.com/wiki/index.php/Arduino_LCD_KeyPad_Shield_(SKU:_DFR0009)#Pin_Allocation
+
+
 
