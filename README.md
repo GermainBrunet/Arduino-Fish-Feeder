@@ -38,6 +38,7 @@ Use the "left" button to exit this menu selection and return to the main menu.
 - Arduino UNO
 - OSEPP LCD Keypad Shield
 - EZRobot 360 Servo
+- 6x1.5v AA battery holder.
 
 # Challenges
 - Finding an easy arduino menu to extend.  Thank you Paul Siewert for your easy to configure menu.
