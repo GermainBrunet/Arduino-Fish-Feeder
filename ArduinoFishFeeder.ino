@@ -21,7 +21,7 @@
               The guys at Active components for proposing the OSEPP LCD KEYPAD SHIELD for use with the Arduino UNO
               https://www.active123.com/
               Thingiverse for the 3d printed feeder parts.
-              TODO
+              https://www.thingiverse.com/thing:2387904
               EZRobot for the 360 Servo
               https://www.ez-robot.com/Shop/AccessoriesDetails.aspx?prevCat=9&productNumber=5
               OSEPP LCD Keypad Shield Reference
