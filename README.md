@@ -1,5 +1,5 @@
 # Arduino-Fish-Feeder
-Software used with an Arduino UNO, OSEPP LCD Keypad Shield, EZRobot 360 servo, to control an auger used to deliver food to fish on a scheduled basis.
+Software used with an Arduino UNO, OSEPP LCD Keypad Shield, EZRobot 360 servo, to control an auger used to deliver food to fish on a scheduled basis.  The power source is a 6x1.5v AA battery pack.
 
 # Features
 - Control time between feedings;
