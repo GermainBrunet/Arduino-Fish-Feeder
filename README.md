@@ -14,7 +14,7 @@ Software used with an Arduino UNO, OSEPP LCD Keypad Shield, EZRobot 360 servo, t
 # Instructions
 By default, the software starts in the "Feeding In:" mode that displays a count down timer.  To exit this menu selection, and access the main menu use the "left" button.
 
-Note:  The arduino clock is not precice and you will need to adjust your time values in consequence.
+Note:  The arduino clock is not precise and you will need to adjust your time values in consequence.
 
 In the main menu, you will see the following options.  Using the "up" and "down" option, you can move the arrow to the desired menu setting.  Click on the "right" button to select that menu entry. 
 - Run Feeder
